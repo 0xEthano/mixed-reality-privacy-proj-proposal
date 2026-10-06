@@ -30,7 +30,7 @@ Find relevant existing pose, gaze, and gesture datasets, preprocess them, and pe
 | Final report and presentation   | Methods, aggregate figures, literature comparison, limitations, and contributions         |
 | (Optional) Unity visualization  | Offline replay of permitted trajectories using Unity                                      |
 
-This repo contains proposal docs. Code, dependencies, Unity assets/setup, datasets, and final results will be delivered in the future.
+This repo contains proposal docs. Finalized code, dependencies, Unity assets/setup, datasets, and final results will be delivered in the future.
 
 ## System blocks
 ```mermaid

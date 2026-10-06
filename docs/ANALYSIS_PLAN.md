@@ -6,11 +6,11 @@
 3. Which observed behaviors are recoverable, and how do privacy transformations affect that utility?
 
 ## Threat model
-An offline analyst receives sensor traces and labeled enrollment examples for a known participant cohort. Direct identifiers are removed from model inputs. The primary task is closed-set identification among those enrolled users. This does not measure identity discovery in the general population. Cross-task or cross-session tests are included only when the dataset supports them. No attempt will be made to link participants to real identities.
+An offline analyst receives sensor traces and labeled enrollment examples for a known participant cohort. Direct identifiers are removed from model inputs. The primary task is closed-set identification among those enrolled users. This does not measure identity discovery in the general population. Cross-task or cross-session tests are included only when the dataset supports them.
 
 ## System blocks and requirements
 | Block | Input | Output / requirement |
-| --- | --- | --- |
+| ----- | ----- | -------------------- |
 | Discovery | Papers and official data sources | Access decision, modality coverage, provenance, terms |
 | Ingestion | Authorized files | Local immutable raw copy, file hashes, schema audit |
 | Split construction | Participant, session, trial metadata | Versioned non-overlapping train/validation/test manifest |

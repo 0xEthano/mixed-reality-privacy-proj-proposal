@@ -1,6 +1,6 @@
 # References
 
-Verified or reviewed 2026-10-06. These sources motivate the proposed study; published performance is not a result of this project.
+Reviewed 10.6.2026
 
 ## Required literature
 
@@ -12,7 +12,7 @@ Verified or reviewed 2026-10-06. These sources motivate the proposed study; publ
 
 **R4.** Mark Roman Miller, Fernanda Herrera, Hanseul Jun, James A. Landay, and Jeremy N. Bailenson. *Personal identifiability of user tracking data during observation of 360-degree VR video.* Scientific Reports 10, 17404, 2020. [DOI:10.1038/s41598-020-74486-y](https://doi.org/10.1038/s41598-020-74486-y). Relevance: identifiability from ordinary viewing-related tracking data.
 
-## Additional dataset leads
+## Additional leads
 
 **R5.** *OpenNEEDS: A Dataset of Gaze, Head, Hand, and Scene Signals During Exploration in Open-Ended VR Environments.* 2021. [DOI:10.1145/3448018.3457996](https://doi.org/10.1145/3448018.3457996). Candidate multimodal dataset; author-hosted download and terms require confirmation.
 
