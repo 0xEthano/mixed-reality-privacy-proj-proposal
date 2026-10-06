@@ -2,7 +2,7 @@
 
 | Member | Lead roles | Primary responsibilities |
 | ------ | ---------- | ------------------------ |
-| Jeff   | Setup, writing, research, networking | Project organization, timeline tracking, report/presentation creation, dataset transfer and access workflow |
+| Ethan   | Setup, writing, research, networking | Project organization, timeline tracking, report/presentation creation, dataset transfer and access workflow |
 | Avaneesh | Research, algorithm design | Literature and dataset review, features, models, split protocol, evaluation design |
 
 Networking covers secure dataset transfer, and git setup for team collab
